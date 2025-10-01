@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Viktor & Rolf Bonbon",
+    "brand": "Viktor & Rolf",
+    "notes": ["сладкий", "карамель", "цитрус"],
+    "category": "сладкий",
+    "gender": "женский",
+    "season": "зима",
+    "image": "https://fimgs.net/mdimg/perfume/375x500.24983.jpg"
+  },
+  {
+    "name": "Dior Homme Cologne",
+    "brand": "Dior",
+    "notes": ["свежий", "цитрус", "мускус"],
+    "category": "свежий",
+    "gender": "мужской",
+    "season": "лето",
+    "image": "https://fimgs.net/mdimg/perfume/375x500.16482.jpg"
+  }
+]
