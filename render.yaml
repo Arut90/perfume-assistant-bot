@@ -2,7 +2,10 @@ services:
   - type: web
     name: perfume-assistant-bot
     env: python
+    region: frankfurt   # можно оставить или выбрать другой регион
     buildCommand: pip install -r requirements.txt
     startCommand: python bot.py
-    region: frankfurt
     plan: free
+    envVars:
+      - key: BOT_TOKEN
+        sync: false   # значение зададим вручную через Dashboard Render
