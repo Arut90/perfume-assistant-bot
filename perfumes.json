@@ -1,12 +1,12 @@
 [
   {
-    "name": "Viktor & Rolf Bonbon",
-    "brand": "Viktor & Rolf",
+    "name": "Chocolate Greedy",
+    "brand": "Montale",
     "notes": ["сладкий", "карамель", "цитрус"],
     "category": "сладкий",
     "gender": "женский",
     "season": "зима",
-    "image": "https://fimgs.net/mdimg/perfume/375x500.24983.jpg"
+    "image": "https://www.jomashop.com/blog/content/images/size/w1200/2024/10/Explore-our-comprehensive-guide-to-finding-your-perfect-signature-scent--covering-fragrance-families--personality-assessment--and-testing-tips.-Unveil-the-secrets-to-confidently-choos---2024-10-09T124427.297.png"
   },
   {
     "name": "Dior Homme Cologne",
@@ -18,3 +18,4 @@
     "image": "https://fimgs.net/mdimg/perfume/375x500.16482.jpg"
   }
 ]
+
